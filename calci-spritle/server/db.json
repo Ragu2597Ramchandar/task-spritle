@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "A212",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "userName": "Iron Man",
+      "email": "stak@gmail.com",
+      "password": "Stark@123"
+    },
+    {
+      "id": "Xyd4uaj",
+      "firstName": "Naveen",
+      "lastName": "Kumar",
+      "userName": "Naveen@2000",
+      "email": "nk8246334@gmail.com",
+      "password": "naveen@200"
+    },
+    {
+      "id": "BCFzZhZ",
+      "firstName": "V.kannan",
+      "lastName": "Virumandi",
+      "userName": "kannan",
+      "email": "vkannan341999@gmail.com",
+      "password": "kannan@123"
+    },
+    {
+      "id": "853H5Yc",
+      "firstName": "Ragu",
+      "lastName": "Ramacahandiran",
+      "userName": "ragu",
+      "email": "ramchandar2597@gmail.com",
+      "password": "ragu@123"
+    }
+  ]
+}
